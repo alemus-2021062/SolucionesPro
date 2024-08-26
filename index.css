@@ -1,0 +1,62 @@
+ /* ------------------------------------------- MAIN PART ----------------------------------------- */
+.img-logo{
+    width: 90%;
+    height: 90%;
+}
+.col-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-text-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-text{
+    padding: 15px;
+}
+
+/* -------------------------------------- HEADER ---------------------------------------- */
+.header{
+    background-color: #DDF2FD;
+}
+.secciones{
+    display: flex;
+    align-items: center;
+}
+.secciones-pequenas{
+    padding-left: 20px;
+    margin-left: 20px;
+}
+.img-logo-header{
+    width: 130px;
+    height: 130px;
+    margin-left: 20px;
+}
+
+/* ---------------------------- CONOCENOS ----------------------------------------- */
+.titulos{
+    text-align: center;
+}
+.div-conocenos{
+    background-color: #F1F5F9;
+    padding: 15px;
+}
+.conocenos-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.row-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* --------------------------------------------- NUESTROS SERVICIOS ---------------------------- */
+.col-card-servicios{
+    margin: 15px;
+}
